@@ -1,6 +1,11 @@
+Food:
 Shaken Beef Fried Rice
 Grill Pork Chop Rice
 New Orleans Pasta
+
+Movies:
 I am Legend
 Inception
 Bullet Train
+
+Drinks:
