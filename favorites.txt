@@ -7,6 +7,7 @@ Movies:
 I am Legend
 Inception
 Bullet Train
+World War Z
 
 Drinks:
 Dirty Brown Sugar
@@ -19,6 +20,8 @@ Sorry
 Shape of You
 Perfect
 Sugar
+All the men I need
+Thinking of You
 
 TV Shows:
 Breaking Bad
